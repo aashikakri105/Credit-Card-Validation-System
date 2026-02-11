@@ -37,18 +37,24 @@ A secure web application built using **Flask (Python)** that allows users to reg
 
 ---
 ## 📂 Project Structure
+
+```plaintext
 │── app.py
 │── users.db
 │── requirements.txt
 │── templates/
 │── static/
 
+```
+
 ---
 ## 📸 Screenshots
 (Add screenshots here)
 
 ---
+
 ## 📌 Future Improvements
+
 - Encrypt credit card data
 - Add email verification
 - Deploy on Render / Railway / Heroku
