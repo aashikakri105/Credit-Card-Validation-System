@@ -27,11 +27,3 @@ A secure web application built using **Flask (Python)** that allows users to reg
 - HTML, CSS , Javascript
 
 ---
-
-## 📦 Installation & Setup
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
