@@ -54,5 +54,3 @@ A secure web application built using **Flask (Python)** that allows users to reg
 - Deploy on Render / Railway / Heroku
 - Add password reset feature
 
----
-
