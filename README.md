@@ -1,4 +1,4 @@
-# 💳 Credit Card Management System (Flask Web App)
+# 💳 Credit Card Validator System (Flask Web App)
 
 A secure web application built using **Flask (Python)** that allows users to register, login, and manage their credit card details safely.
 
@@ -38,11 +38,42 @@ A secure web application built using **Flask (Python)** that allows users to reg
 ## 📂 Project Structure
 
 ```plaintext
-│── app.py
-│── users.db
-│── requirements.txt
-│── templates/
-│── static/
+credit-card-validator/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── models.py
+│   ├── utils.py
+│   │
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── landing.html
+│   │   ├── login.html
+│   │   ├── register.html
+│   │   ├── dashboard.html
+│   │   ├── add_card.html
+│   │   ├── view_cards.html
+│   │   ├── card_details.html
+│   │   ├── delete_account.html
+│   │   ├── dev_dashboard.html
+│   │   └── dev_login.html
+│   │
+│   └── static/
+│       ├── css/
+│       │   └── style.css
+│       └── js/
+│           └── script.js
+│
+├── instance/
+│   └── users.db
+│
+├── venv/
+├── requirements.txt
+├── run.py
+├── .gitignore
+└── README.md
+
 
 ```
 
@@ -52,11 +83,11 @@ Follow these simple steps to run the project locally:
 
 1. Clone the Repository
 ```
-git clone https://github.com/your-username/credit-card-validation-system.git
+git clone https://github.com/your-username/credit-card-validator.git
 ```
 2. Install Dependencies
 ```
-cd credit-card-validation
+cd credit-card-validator
 npm install
 ```
 3. Run the Development Server
