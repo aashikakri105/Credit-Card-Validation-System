@@ -1,4 +1,3 @@
-
 # 💳 Credit Card Management System (Flask Web App)
 
 A secure web application built using **Flask (Python)** that allows users to register, login, and manage their credit card details safely.
@@ -15,9 +14,8 @@ A secure web application built using **Flask (Python)** that allows users to reg
 - 📅 Expiry Date Validation
 - 🗄 SQLite Database Storage
 - 🛠 Developer Dashboard Mode
-```
+  
 ---
-
 ## 🛠 Technologies Used
 
 - Python
