@@ -15,7 +15,7 @@ A secure web application built using **Flask (Python)** that allows users to reg
 - 📅 Expiry Date Validation
 - 🗄 SQLite Database Storage
 - 🛠 Developer Dashboard Mode
-
+```
 ---
 
 ## 🛠 Technologies Used
@@ -46,6 +46,24 @@ A secure web application built using **Flask (Python)** that allows users to reg
 │── static/
 
 ```
+---
+## ⚙️ Getting Started
+Follow these simple steps to run the project locally:
+
+1. Clone the Repository
+```
+git clone https://github.com/your-username/food-delivery-app.git
+```
+2. Install Dependencies
+```
+cd food-delivery-app
+npm install
+```
+3. Run the Development Server
+```
+npm run dev
+```
+The app will be available at http://localhost:5173/.
 
 ---
 ## 📸 Screenshots
