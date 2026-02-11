@@ -36,6 +36,7 @@ A secure web application built using **Flask (Python)** that allows users to reg
 - Input validation and sanitization
 
 ---
+
 ## 📂 Project Structure
 
 ```plaintext
@@ -46,17 +47,18 @@ A secure web application built using **Flask (Python)** that allows users to reg
 │── static/
 
 ```
+
 ---
 ## ⚙️ Getting Started
 Follow these simple steps to run the project locally:
 
 1. Clone the Repository
 ```
-git clone https://github.com/your-username/food-delivery-app.git
+git clone https://github.com/your-username/credit-card-validation-system.git
 ```
 2. Install Dependencies
 ```
-cd food-delivery-app
+cd credit-card-validation
 npm install
 ```
 3. Run the Development Server
@@ -66,6 +68,7 @@ npm run dev
 The app will be available at http://localhost:5173/.
 
 ---
+
 ## 📸 Screenshots
 (Add screenshots here)
 
